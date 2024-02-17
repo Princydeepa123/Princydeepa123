@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Princydeepa123
 - 👀 I’m interested in new challenges that makes me happy
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Chat GPT & AI tools in MS Office
 - 💞️ I’m looking to collaborate on Data Analysis Industry
 - 📫 Reach me via email and Linkedin
-- 😄 Pronouns: Data Analyst[Excel,Power Bi,Tableau,SQL]
+- 😄 Pronouns: Certified Data Analyst[Excel,Power Bi,Tableau,SQL]
 - ⚡ Fun fact: I am a bathroom singer
 
 <!---
